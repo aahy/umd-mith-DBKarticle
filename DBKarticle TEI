@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Negroes view campus with mixed emotion</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>The Diamondback</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information  about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="article">
+           <head>Negroes view campus with mixed emotions</head>
+            <cb n="1"/>
+          <p> "I was shaving in the dorm one <lb/> day," related a Negro boy, "and <lb/> I cut myself. A friend who was <lb/>
+            sitting nearby joked with me <lb/> and said, ‘Gee, I didn’t know you <lb/> had red blood. My mother al<lb break="no"/>­ways told me
+            it was blue.’" <lb/> </p>
+          <p> Turning to his friend, the <lb/> Negro youth replied, "Now that <lb/> you see it’s red, think of all the <lb/>
+            other lies your mother might <lb/> have told you." <lb/> </p>
+          <p> This is what the Negro some­ <lb/> times encounters on campus. <lb/> But he knows that a jovial return <lb/>
+            <cb n="2"/>
+              or a friendly innuendo may serve to enlighten a white person’s attitudes and teach him what the
+              black man is like and what he is not like. </p>
+          <p> Negroes on campus who mix socially and academically with whites and also stay away from
+            large associations of Negroes feel that they are recognized as students -- not as "Negro" stu­dents.
+            As rapport develops be­tween these Negroes and their white colleagues, race becomes just another topic f
+            or dormitory bull sessions and jests. </p>
+          <p> Two colored girls in Wicomico
+             <cb n="3"/>
+             one day plastered Black Power signs all over their hall. “It was fun," reports prankster Carolyn,
+             a freshman from Baltimore, for in reply to this stunt, the white girls “dressed up in paper bags,
+             pretending they were a (Ku Klux) Klan." </p>
+          <p> The hooded WASPS sprinkled perfume on the floor in the shape of a cross and set fire to it. “It
+            really startled us!" exclaimed Carolyn. </p>
+          <p> "We kid around a lot in the dorm," related Bronwyn, a junior. "We sing 'We Shall overcome.’"
+            Songs and jokes, she says, don’t offend her, for she does not "look on the bad side about what other
+            people say about me." </p>
+          <p> Some other Negro students find adjustment to College Park diffi­cult. Betty, who is 28 years old,
+            married and a native of Cali­fornia, finds an “extremely hostile" attitude about the campus. “There are certain
+            vibrations you can feel." </p>
+          <p> Betty recalls an incident she had with an advisor. During registration week, she went to him twice with
+            scheduling dilem­mas. “He was very nasty,"" she recalled, biting her lower lip and widening her very expressive
+            eyes. “I told him I had to take this course. He threw my (drop­ add) slip at me...I thought it was
+            terribly unprofessional for an advisor to extend this sort of treatment." </p>
+          <p> Betty feels that her race did play a causative factor toward this discourteous treatment. “I
+            do have a basis for comparison,"" she explained. She was raised in an integrated community, has
+            traveled through Europe with her husband, attended San Francisco State College and Hunter College
+            and interdated in her high school and earlier college years. </p>
+              <cb n="4"/>
+          <p> "I find It extremely difficult to estab­lish any form of communication with some of the teachers
+            and advisors here," she said. “Students, basically, are friendly, receptive, and warm. But, in some
+            instances, there is hesitancy...I don't think they know how to respond to a Negro." </p>
+          <p> Betty has run into trouble securing rides from the commuters' carpool serv­ice. A few times, she was
+            able to arrange rides over the telephone. However, when she met her future commuting companions they
+            would frequently “begin to make excuses,"" and Betty had no ride. </p>
+          <p> Resulting from her academic and social contacts, Betty concludes that, “When you are brought up in an
+            Inte­grated situation, you act as an individual. You are not Negro or white. But here...in the South...and
+            on this campus...I feel I am treading on white man's territory...This is the first time I feel Negro." </p>
+          <p> Also noting a discernible line between the races, but holding a different view­ point is a 28 year-old male
+            student who works full time off campus. </p>
+          <p> What's so overwhelming about feeling like a Negro, he questioned. “Isn't there a distinction" between
+            Negroes and whites? </p>
+          <p> With a wholly different frame of mind is Harry, a lively, congenial sophomore who commutes to school
+            and takes photo­graphs for campus publications. “I am not a Negro on a white campus!" he asserts. </p>
+          <p> "I don't think this is a white campus...and I don't go for this stuff that the Negro doesn’t have as
+            much chance as everyone else out here. He does." </p>
+          <p> A native of Wisconsin and formerly a nine-year resident of Little Rock, Ark., Harry says,
+            “Because of the way my family brought me up...I have never felt inferior to anybody. Some Negroes
+            do feel inferior. Some feel mid way." </p>
+          <p> A Negro who feels cunningly daring is Dave. Dave has skin brown as chocolate, teeth white as snow
+            and a smile that signals immediate rapport with his environment. </p>
+          <p> “Maryland is a conservative campus," he notes. “You can’t very well walk out of your race.
+            I was told a lot of tales
+              <cb n="5"/>
+              before I came here. ‘You can’t do this. You can’t do that.’ I feel, though, that there is an
+              atmosphere here and an opportunity to participate in just about anything." </p>
+          <p> Dave has been active in dormitory sports, house rules committee, powder­ puff football, dormitory parties
+            and homecoming preparations. </p>
+          <p> Socially, Dave goes out with whites and Negroes. “I've gone steady with white girls, Jewish girls,"
+            he said, adding, “I guess I am a gregarious fellow. I interrelate easily." “But I use my intellect
+            before I jump. Every­ one gets slapped in the face a few times. So you use some discretion." </p>
+          <p> In class, for example, “If your grade is tottering...and your prof talks with a little bit of a
+            Southern accent...you don’t talk to Sally during the lecture." </p>
+          <p> Two female Negro students, however, disagree with Dave’s classroom obser­vation. “If you prove yourself
+            to the teacher," feels Bronwyn, “there is noth­ing the teacher can do against you." </p>
+          <p> “I have encountered nothing (prejudi­cial) whatsoever,"" related Kathleen, a junior majoring in
+            marketing and a transfer student from the University of Maryland in Munich, Germany. “I have yet to
+            find an inkling that such a thing exists as far as teaching is concerned." </p>
+          <p> Rich, a 26 year-old Business Student recalls, “There were a couple of courses I have taken here where
+            I felt I had gotten a raw deal...I have only run across two professors I can really sit down and talk
+            to here in BPA." </p>
+          <p> Betty, the attractive housewife-student from California agrees. “I don’t expect to get the benefit
+            of the doubt if I am borderline." </p>
+          <p> Discussing classroom interaction among students, some Negroes find they are stared at if race is
+            discussed during a lecture. Other Negroes notice nothing of the sort. </p>
+          <p> "The kids don’t stare at me. They don’t even look up,* laughed a pretty Junior who commutes to school from
+            Laurel. “If they do, I don’t catch them staring!" </p>
+          <p> “Sometimes it hits me that I am the only Negro in a class," relates another
+              <cb n="6"/>
+              Negro. "It doesn't make me shrink. I am always working harder because I always feel I have to prove
+              myself to white people. I have to show them that I live as well as they do, maybe better. I am not a dumb,
+              ignorant Negro. I feel that I have to prove this to them." </p>
+          <p> Though the Negroes on campus have
+              <cb n="7"/>
+              different experiences and perceptions to relate, they generally agree on one com­mon theme.
+              As one freshman comment­ed, “When you have more and more contact with Negro people, then you
+              don’t have as many preconceptions. Why? Because the preconceptions all fall apart." </p>
+         </div>
+      </body>
+  </text>
+</TEI>
