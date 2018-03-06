@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type= "main">Diamondback Article</title>
+            <title type= "sub"> Militant Negro Speaks</title>
+            <title type= "sub">Digital Edition</title>
+            <author>
+              <persName>Aia H. Yousef</persName>
+            </author>
+            <respStmt>
+              <resp>Encoded by</resp>
+            <name>Aia H. Yousef</name>
+          </respStmt>
+         </titleStmt>
+         <publicationStmt>
+           <publisher>
+           <orgName>MITH</orgName>
+         </publisher>
+         <pubPlace>
+         <settlement>College Park</settlement>
+       <region>Maryland</region>
+     </pubPlace>
+     <date when= "2018-03-06">March 6, 2018</date>
+         </publicationStmt>
+         <sourceDesc>
+           <bibl>
+           <title>The DiamondBack</title>
+           <publisher> <orgName>University of Maryland</orgName>
+         </publisher>
+           <pubPlace>
+             <settlement>College Park</settlement>
+             <region>Maryland</region>
+           </pubPlace>
+           <date when= "1967-10-11">October 11, 1967</date>
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="article">
+
+           <head>Militant Negro Speaks</head>
+
+           <cb n="1"/>
+           <byline>By Ira Allan</byline>
+           <p> A militant black power soci­-<lb break="no"/>
+             ology instructor ousted last sum­-<lb break="no"/>
+             mer from the <orgName>Howard University </orgName><lb/>
+             faculty told the campus <orgName>Congress <lb/>
+             of Racial Equality</orgName> chapter last <lb/>
+             night that Negro students at the <lb/>
+             University ought to “begin ques­-<lb break="no"/>
+             tioning the values" of a society <lb/>
+             that has “brainwashed" them. <lb/>
+             Speaking in the student union <lb/>
+             before a crowd of about 100, <lb/>
+             <persName>Nathan Hare</persName>, 26, said, “Black <lb/>
+             power grows out of the schizoid <lb/>
+             nature of a society where one <lb/>
+             thing is professed and another <lb/>
+             thing practiced. You should ques­-<lb break="no"/>
+             tion the values of society and then <lb/>
+             decide if you want to be a part <lb/>
+             of it." <lb/> </p>
+            <p> Hare said the black power <lb/>
+             movement is stronger on many <lb/>
+             white campuses than at <orgName>Howard</orgName>. <lb/>
+             He said it was “the mental attitude <lb/>
+             of social organizations and not <lb/>
+             mere numbers" that determine <lb/>
+             minority groups. <lb/> </p>
+            <p> <persName>Hare</persName>, who taught sociology and <lb/>
+             black power to <persName>Stokely Car­-<lb break="no"/>
+             michael</persName>, past chairman of the <lb/>
+             <orgName>Student Non-violent Coordinating <lb/>
+             Committee</orgName> when both were at <lb/>
+             <orgName>Howard</orgName>, was fired from his post <lb/>
+             after leading student unrest at <lb/>
+             the predominantly Negro univer­-<lb break="no"/>
+             sity in <placeName>Washington</placeName>. <lb/> </p>
+            <p> <persName>Hare</persName>, along with 19 other <lb/>
+             teachers and students, was dis­-<lb break="no"/>
+             missed after a series of inci­-<lb break="no"/>
+             dents beginning last March when <lb/>
+             Selective Service Director Lt. <lb/>
+             Gen. <persName>Lewis Hershey</persName> was pre­-<lb break="no"/>
+             vented from speaking on campus <lb/>
+             by hecklers. Four students were <lb/>
+             subsequently reinstated by a <lb/>
+             federal court. <lb/> </p>
+            <p> In June 1966, when <orgName>Howard</orgName> <lb/>
+             was having its centennial obser­-<lb break="no"/>
+             vation he was “told not to make <lb/>
+             speeches or they (the adminis­-<lb break="no"/>
+             tration) would clamp down." <lb/> </p>
+
+             <cb n="2"/>
+
+             <p> <persName>Hare</persName> made speeches. <lb/> </p>
+             <p> Though noted as a firebrand, <lb/>
+               the most revolutionary idea <persName>Hare</persName> <lb/>
+               expressed was that “this group <lb/>
+               <orgName>(CORE)</orgName> is big enough to virtual­-<lb break="no"/>
+               ly take over this campus." <lb/>
+               That declaration received a <lb/>
+               mixed reaction from the group, <lb/>
+               which last night initiated plans <lb/>
+               for its second year on campus. <lb/>
+               <orgName>CORE</orgName> President <persName>Earl Wynn</persName> <lb/>
+               said the meeting was “a call for <lb/>
+               unity among Negro students." <lb/>
+               He hopes that activating the group <lb/>
+               will help make the environment <lb/>
+               at the University “conducive for <lb/>
+               the social and educational ac­-<lb break="no"/>
+               tivities of Negro students. <lb/>
+               “It is time to stop talking and <lb/>
+               to start action to prepare the <lb/>
+               University to accept more <lb/>
+               Negroes in the future," he de­-<lb break="no"/>
+               clared. <lb/> </p>
+              <p> <persName>Wynn </persName>said most Negro stu­-<lb break="no"/>
+               dents, though they are not dis­-<lb break="no"/>
+               criminated against on campus, <lb/>
+               drop out or transfer to Negro <lb/>
+               colleges as they “become dis­-<lb break="no"/>
+               illusioned with the social life <lb/>
+               at this University." <lb/> </p>
+              <p> <persName>Wynn</persName> said, “Many are afraid <lb/>
+               of alienating their white friends <lb/>
+               so they imitate them." <lb/> </p>
+              <p> The first part of the meeting <lb/>
+               was a discussion of what <orgName>CORE'S</orgName> <lb/>
+               aims and methods ought to be. <lb/>
+               <persName>Wynn</persName> listed the following pri­-<lb break="no"/>
+               orities: <lb/> </p>
+              <p> • Establishment of black fra­-<lb break="no"/>
+              ternities and sororities; <lb/> </p>
+              <p> • Getting a course on Negro <lb/>
+               history and culture into the aca­-<lb break="no"/>
+               demic curriculum; <lb/> </p>
+              <p> • Pressuring the administra­-<lb break="no"/>
+              tion to hire more black pro­-<lb break="no"/>
+              fessors; <lb/> </p>
+              <p> • Integrating the cheerleading <lb/>
+              squad. <lb/> </p>
+              <p> “When the white players on <lb/>
+              the team finish a good game, the <lb/>
+              cheerleaders run out to hug and <lb/>
+              kiss them. But when <persName>Bill (Jones)</persName> <lb/>
+
+              <cb n="3"/>
+
+              and <persName>Pete (Johnson)</persName> come off the <lb/>
+              (basketball) court there’s nobody <lb/>
+              to greet them. This may seem <lb/>
+              a minute gripe to you, but to <lb/>
+              them it's important." <lb/> </p>
+              <p> Much of the comment from <lb/>
+              members concerned the fact that <lb/>
+              few University Negroes know <lb/>
+              each other. <orgName>Wynn</orgName> said he hopes <lb/>
+              to “make <orgName>CORE</orgName> a black grape­-<lb break="no"/>
+              vine on campus and serve as a <lb/>
+              liaison between the administra­-<lb break="no"/>
+              tion and the Negro students." <lb/> </p>
+
+<ab rend="floating">
+
+             <cb n="1"/>
+             <persName>NATHAN HARE</persName>, a militant black <lb/>
+             power sociology instructor, told Uni­-<lb break="no"/>
+             versity <orgName>CORE</orgName> members last night <lb/> 
+
+             <cb n="2"/>
+             that they must start re-evaluating <lb/>
+             the values of their “schizoid” society. <lb/> </ab>
+
+           <ab rend="floating">'Re-evaluate society'</ab>
+
+           <!-- first floating block of text (image caption) appears below an image above the article title -->
+           <!-- second floating quote appears between image caption and  article title -->
+
+         </div>
+      </body>
+  </text>
+</TEI>
